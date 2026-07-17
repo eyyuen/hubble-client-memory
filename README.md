@@ -5,7 +5,7 @@ Eliminates the founder bottleneck by making every client preference, brand guide
 and past feedback instantly accessible to the whole team.
 
 ## Demo Video
-[Watch Demo Video](your-loom-link-here)
+[Watch Demo Video](https://www.loom.com/share/db3a947c0ccf43fbae250f3a41d563d6)
 
 ## The Problem
 At Hubble, client knowledge is scattered across:
