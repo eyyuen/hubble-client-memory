@@ -101,6 +101,7 @@ Click **"Load sample clients"** in the sidebar to populate with 4 demo clients:
 - Casa Living
 
 ## How It Works
+```
 Raw text input (any source)
 ↓
 Claude extracts:
@@ -120,6 +121,7 @@ ChromaDB semantic search finds relevant context
 Claude generates specific, actionable answer
 ↓
 Sources displayed for transparency
+```
 
 ## What's Next
 - WhatsApp direct integration via Twilio — auto-ingest messages without copy-paste
@@ -129,11 +131,13 @@ Sources displayed for transparency
 - Client profile dashboard — visual overview of each client
 
 ## Project Structure
+```
 hubble-client-memory/
 ├── app.py            # Main Streamlit app
 ├── .env.example      # Environment variables template
 ├── .gitignore
 └── README.md
+```
 
 ## Built By
 Yuen Wei Ling — [github.com/eyyuen](https://github.com/eyyuen)
